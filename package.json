@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "registry":{
+	  "type":"git",
+	  "url":"git@github.com:vingo/pacakge_test.git"
+  }
   "author": "",
   "license": "ISC"
 }
